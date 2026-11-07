@@ -28,16 +28,6 @@ Figures below are averages calculated from the combined `HealtCare` sheet.
 - **Cancer history and heart issues** showed little difference in average charges in this dataset.
 
 ## Preview
+<img width="1278" height="590" alt="Screenshot 2026-11-07 151723" src="https://github.com/user-attachments/assets/c21b07b2-4c30-4db4-9f6b-c91ba7e08478" />
 
-![Healthcare Analysis Dashboard](https://github.com/user-attachments/assets/YOUR-IMAGE-ID-HERE)
 
-
-## Repository Structure
-```
-├── Healthcare.xlsx   # workbook with raw sheets, cleaned data, pivots and dashboard
-└── README.md
-```
-
-## Author
-**Arjun Ajikumar**, Data Analyst | Excel · SQL · Power BI · Python
-[GitHub](https://github.com/arjunajikumar-svg)
