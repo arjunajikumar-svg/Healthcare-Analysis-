@@ -28,8 +28,9 @@ Figures below are averages calculated from the combined `HealtCare` sheet.
 - **Cancer history and heart issues** showed little difference in average charges in this dataset.
 
 ## Preview
-![Analysis](images/healthcare_preview.png)
-*(Add a screenshot of the `Dashboard` sheet.)*
+
+![Healthcare Analysis Dashboard](https://github.com/user-attachments/assets/YOUR-IMAGE-ID-HERE)
+
 
 ## Repository Structure
 ```
